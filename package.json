@@ -1,0 +1,14 @@
+{
+  "name": "amazontest",
+  "version": "1.0.0",
+  "description": "Juspay )test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "prakash-achanta",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.0"
+  }
+}
